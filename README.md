@@ -26,6 +26,12 @@ Clone the repository
 git clone https://github.com/roqmarcelo/always-vinyl.git
 ```
 
+Go to the project folder
+
+```
+cd always-vinyl
+```
+
 Build the project
 
 ```
