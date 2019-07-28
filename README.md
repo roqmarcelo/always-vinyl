@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/roqmarcelo/always-vinyl.svg?branch=master)](https://travis-ci.com/roqmarcelo/always-vinyl)
+[![Code Coverage](https://codecov.io/gh/roqmarcelo/always-vinyl/coverage.svg)](https://codecov.io/gh/roqmarcelo/always-vinyl)
+
 # AlwaysVinyl API
 
 Simple API to test my capabilities as a Back-End Engineer.
