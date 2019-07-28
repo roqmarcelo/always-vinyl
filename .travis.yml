@@ -13,6 +13,9 @@ cache:
   directories:
     - $HOME/.m2
 
+before_install:
+  - chmod +x mvnw
+
 # This is to enable CodeCov's coverage
 # If a build is successful, the code is submitted for coverage analysis
 after_success:
